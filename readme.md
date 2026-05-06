@@ -322,7 +322,7 @@ Unlock time: 12:06 PM (same date)
 
 
 👤 Author
-Built by: Swayam
+Built by: Amay Agrawal
 A full-stack web developer passionate about scalable systems, meaningful UX, and AI-powered applications.
 
 📜 License
